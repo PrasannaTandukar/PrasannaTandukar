@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrasannaTandukar
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on website development projects
 - 📫 How to reach me ...
 
 <!---
