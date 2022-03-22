@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on website development projects
-- 📫 How to reach me ...
+- 📫 How to reach me pratandukar@gmail.com
 
 <!---
 PrasannaTandukar/PrasannaTandukar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
